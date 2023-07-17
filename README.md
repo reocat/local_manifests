@@ -3,7 +3,6 @@
 
 Manifests for building following ROMs:
 - crDroid
-- AICP
 # Getting Started
 Clone this repository to .repo folder.
 
