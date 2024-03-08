@@ -6,4 +6,5 @@
   <project name="reocat/android_kernel_nokia_sdm660_ksu" path="kernel/nokia/sdm660" remote="github" revision="14.0" />
   <project name="themuppets/proprietary_vendor_nokia_sdm660-common" path="vendor/nokia/sdm660-common" remote="github" revision="lineage-21" />
   <project name="themuppets/proprietary_vendor_nokia_PL2" path="vendor/nokia/PL2" remote="github" revision="lineage-21" />
+  <project name="Terminator-J/vendor_ih8sn" path="vendor/ih8sn" remote="github" revision="13.0-test" />
 </manifest>
