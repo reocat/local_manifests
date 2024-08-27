@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	      <project name="reocat/android_device_google_raviole" path="device/google/raviole" remote="github" revision="blaze-14-qpr3" />
-  	    <project name="reocat/android_device_google_gs101" path="device/google/gs101" remote="github" revision="blaze-14-hOS-krnl" />
-	      <project name="hentaiOS-Devices/device_google_raviole-kernel" path="device/google/raviole-kernel" remote="github" revision="Ursamoon" />
-  	    <project name="LineageOS/android_device_google_oriole" path="device/google/oriole" remote="github" revision="lineage-21" />
-        <project name="reocat/sign_keys" path="/root/.android-certs" remote="github" revision="blaze-14" />
+	<project name="reocat/android_device_google_raviole" path="device/google/raviole" remote="github" revision="pixelstar-14" />
+	<project name="reocat/android_device_google_gs101" path="device/google/gs101" remote="github" revision="pixelstar-14/" />
+	<project name="reocat/device_google_gs-common" path="device/google/gs-common" remote="github" revision="blaze-14-qpr3" />
+	<project name="hentaiOS-Devices/device_google_raviole-kernel" path="device/google/raviole-kernel" remote="github" revision="Ursamoon" />
+	<project name="LineageOS/android_device_google_oriole" path="device/google/oriole" remote="github" revision="lineage-21" />
+	<project name="Evolution-X-Devices/packages_apps_PixelParts" path="packages/apps/PixelParts" remote="github" revision="udc" />
+	<project name="TheMuppets/proprietary_vendor_google_oriole" path="vendor/google/oriole" remote="github" revision="lineage-21" />
 </manifest>
